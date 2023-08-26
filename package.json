@@ -1,0 +1,15 @@
+{
+  "name": "web-scripting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/UserEden26/web-scripting.git",
+  "author": "usereden26 <edenps2626@gmail.com>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.1.0",
+    "puppeteer-core": "^21.1.0"
+  }
+}
